@@ -24,10 +24,9 @@ idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1701026962277/work
 iniconfig @ file:///home/conda/feedstock_root/build_artifacts/iniconfig_1673103042956/work
 jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
 jsonpointer @ file:///D:/bld/jsonpointer_1695397361610/work
-langchain @ file:///home/conda/feedstock_root/build_artifacts/langchain_1700708806996/work
 langchain-core==0.0.10
-langchain==0.0.347
-openai==1.3.7
+langchain
+openai
 langsmith @ file:///home/conda/feedstock_root/build_artifacts/langsmith_1701575514763/work
 marshmallow @ file:///home/conda/feedstock_root/build_artifacts/marshmallow_1689924608696/work
 mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
